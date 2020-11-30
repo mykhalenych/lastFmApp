@@ -31,7 +31,7 @@ const useStyles = makeStyles(() => ({
   title: {
     display: "flex",
     justifyContent: "center",
-    marginTop: 75,
+    marginTop: 125,
   },
 }));
 
