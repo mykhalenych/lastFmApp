@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lastFmApp/static/js/main.a8bc7352.chunk.js",
+    "main.js.map": "/lastFmApp/static/js/main.a8bc7352.chunk.js.map",
+    "runtime-main.js": "/lastFmApp/static/js/runtime-main.e8bb42e9.js",
+    "runtime-main.js.map": "/lastFmApp/static/js/runtime-main.e8bb42e9.js.map",
+    "static/js/2.9a42ca98.chunk.js": "/lastFmApp/static/js/2.9a42ca98.chunk.js",
+    "static/js/2.9a42ca98.chunk.js.map": "/lastFmApp/static/js/2.9a42ca98.chunk.js.map",
+    "index.html": "/lastFmApp/index.html",
+    "static/js/2.9a42ca98.chunk.js.LICENSE.txt": "/lastFmApp/static/js/2.9a42ca98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8bb42e9.js",
+    "static/js/2.9a42ca98.chunk.js",
+    "static/js/main.a8bc7352.chunk.js"
+  ]
+}
